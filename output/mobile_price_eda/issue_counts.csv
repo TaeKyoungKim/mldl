@@ -1,0 +1,5 @@
+﻿split,column,severity,reason,count
+test,px_height,review,화면 크기/해상도 0값,2
+test,sc_w,review,화면 크기/해상도 0값,112
+train,px_height,review,화면 크기/해상도 0값,2
+train,sc_w,review,화면 크기/해상도 0값,180

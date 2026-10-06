@@ -1,0 +1,3 @@
+﻿split,rows,columns,missing_cells,infinite_cells,duplicate_rows,duplicate_features,constant_features
+train,2000,21,0,0,0,0,
+test,1000,21,0,0,0,0,
