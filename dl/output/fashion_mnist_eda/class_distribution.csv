@@ -1,0 +1,21 @@
+split,class_id,class_name,count,ratio
+train,0,T-shirt/top,6000,0.1
+train,1,Trouser,6000,0.1
+train,2,Pullover,6000,0.1
+train,3,Dress,6000,0.1
+train,4,Coat,6000,0.1
+train,5,Sandal,6000,0.1
+train,6,Shirt,6000,0.1
+train,7,Sneaker,6000,0.1
+train,8,Bag,6000,0.1
+train,9,Ankle boot,6000,0.1
+test,0,T-shirt/top,1000,0.1
+test,1,Trouser,1000,0.1
+test,2,Pullover,1000,0.1
+test,3,Dress,1000,0.1
+test,4,Coat,1000,0.1
+test,5,Sandal,1000,0.1
+test,6,Shirt,1000,0.1
+test,7,Sneaker,1000,0.1
+test,8,Bag,1000,0.1
+test,9,Ankle boot,1000,0.1

@@ -1,0 +1,42 @@
+[
+  {
+    "k": 5,
+    "mse": 0.010001389309763908,
+    "psnr_db": 19.99939667234536,
+    "compression_ratio": 42.857142857142854,
+    "savings_percent": 97.66666666666667,
+    "explained_variance_ratio": 0.7755920886993408,
+    "original_values": 562500,
+    "stored_values": 13125
+  },
+  {
+    "k": 20,
+    "mse": 0.003440467407926917,
+    "psnr_db": 24.63382551936042,
+    "compression_ratio": 10.714285714285714,
+    "savings_percent": 90.66666666666666,
+    "explained_variance_ratio": 0.9227116703987122,
+    "original_values": 562500,
+    "stored_values": 52500
+  },
+  {
+    "k": 50,
+    "mse": 0.001835412927903235,
+    "psnr_db": 27.36266213626957,
+    "compression_ratio": 4.285714285714286,
+    "savings_percent": 76.66666666666666,
+    "explained_variance_ratio": 0.9587533473968506,
+    "original_values": 562500,
+    "stored_values": 131250
+  },
+  {
+    "k": 100,
+    "mse": 0.000838512321934104,
+    "psnr_db": 30.764905510559053,
+    "compression_ratio": 2.142857142857143,
+    "savings_percent": 53.333333333333336,
+    "explained_variance_ratio": 0.9810965259869894,
+    "original_values": 562500,
+    "stored_values": 262500
+  }
+]
