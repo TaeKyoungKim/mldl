@@ -1,0 +1,16 @@
+{
+  "model": "LSTM",
+  "test_position": 100,
+  "python_index": 99,
+  "movie_title": "제공되지 않음 (Keras IMDB 데이터셋에 영화 제목 필드가 없음)",
+  "predicted_probability_positive": 0.0024119250010699034,
+  "predicted_label": 0,
+  "predicted_sentiment": "부정",
+  "actual_label": 0,
+  "actual_sentiment": "부정",
+  "is_correct": true,
+  "test_loss": 0.4415796101093292,
+  "test_accuracy": 0.8561599850654602,
+  "review_token_count": 121,
+  "review_preview": "[START] troma [OOV] lloyd kaufman is the in this anthology film made up of two films that were such celluloid [OOV] that tried to salvage them by combining the two into one anthology film and throwing in [OOV] amounts of nudity whenever possible does it work nope it's still crap that i'd have to [OOV] off my boots if i stepped in it will anyone like this mess sure young teen aged [OOV] with the combined [OOV] of a vienna [OOV] have to laugh at something i guess for those who have brains that are"
+}

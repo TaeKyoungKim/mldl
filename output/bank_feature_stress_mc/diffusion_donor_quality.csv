@@ -1,0 +1,16 @@
+﻿feature,metric,value
+age,KS_distance,0.06187919915394824
+job,total_variation_distance,0.06310568043574433
+marital,total_variation_distance,0.06287844226940943
+education,total_variation_distance,0.03072640179163901
+default,total_variation_distance,0.0003106164288874131
+balance,KS_distance,0.18164192103516918
+housing,total_variation_distance,0.03847582808007077
+loan,total_variation_distance,0.10685593964277816
+contact,total_variation_distance,0.021143949762220768
+day,KS_distance,0.08180185177504973
+month,total_variation_distance,0.07234986728599868
+campaign,KS_distance,0.15234375
+pdays,KS_distance,0.8402619373479319
+previous,KS_distance,0.17147625317960635
+poutcome,total_variation_distance,0.021744878069011275

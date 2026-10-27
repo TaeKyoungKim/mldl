@@ -1,0 +1,5 @@
+split,class_0,class_1
+train_before,3104,1121
+train_after_vae,3104,3104
+validation,1035,374
+test,1035,374

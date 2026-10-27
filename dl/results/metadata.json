@@ -1,0 +1,8 @@
+{
+  "seed": 42,
+  "epochs": 20,
+  "generated_samples": 1983,
+  "test_positive_rate": 0.2654364797728886,
+  "torch_version": "2.14.1+cpu",
+  "note": "AP is average precision, not trapezoidal PR AUC. Single split demo."
+}

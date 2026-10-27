@@ -1,0 +1,28 @@
+{
+  "test_position": 100,
+  "movie_title": "제공되지 않음 (Keras IMDB 데이터셋에 영화 제목 필드가 없음)",
+  "actual_label": 0,
+  "actual_sentiment": "부정",
+  "comparison": {
+    "LSTM": {
+      "elapsed_time_sec": 106.23236190003809,
+      "test_loss": 0.3909144997596741,
+      "test_accuracy": 0.8570799827575684,
+      "predicted_probability": 0.004669800866395235,
+      "predicted_label": 0,
+      "predicted_sentiment": "부정",
+      "is_correct": true,
+      "params_count": 673089
+    },
+    "GRU": {
+      "elapsed_time_sec": 82.87590250000358,
+      "test_loss": 0.44780194759368896,
+      "test_accuracy": 0.8533200025558472,
+      "predicted_probability": 0.0029610306955873966,
+      "predicted_label": 0,
+      "predicted_sentiment": "부정",
+      "is_correct": true,
+      "params_count": 665025
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "data": "C:\\apps\\mldl\\data\\bank\\bank-full.csv",
+  "seed": 42,
+  "folds": 5,
+  "shuffle": true,
+  "n_estimators": 100,
+  "min_samples_leaf": 1,
+  "max_features": "sqrt",
+  "class_weight": null,
+  "threshold": 0.5,
+  "random_ratio": 1.0,
+  "enn_neighbors": 3,
+  "enn_kind_sel": "all",
+  "duration_excluded": true,
+  "sampling_strategy_cleaners": "majority"
+}

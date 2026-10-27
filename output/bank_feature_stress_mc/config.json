@@ -1,0 +1,54 @@
+{
+  "data": "C:\\apps\\mldl\\data\\bank\\bank-full.csv",
+  "data_sha256": "d1513ec63b385506f7cfce9f2c5caa9fe99e7ba4e8c3fa264b3aaf0f849ed32d",
+  "split": "one stratified 80/20 split; no CV",
+  "seed": 42,
+  "rf_trees": 50,
+  "train_rows": 36168,
+  "full_test_rows": 9043,
+  "fixed_mc_rows": 500,
+  "repeats": 3,
+  "levels": [
+    0.1,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "groups": {
+    "demographics": [
+      "age",
+      "job",
+      "marital",
+      "education"
+    ],
+    "financial": [
+      "balance",
+      "default",
+      "housing",
+      "loan"
+    ],
+    "campaign": [
+      "contact",
+      "day",
+      "month",
+      "campaign"
+    ],
+    "history": [
+      "pdays",
+      "previous",
+      "poutcome"
+    ]
+  },
+  "diffusion_training_rows": 36168,
+  "donors": 512,
+  "diffusion_steps": 500,
+  "diffusion_timesteps": 100,
+  "device": "cpu",
+  "nearest_candidates": 20,
+  "threshold": 0.5,
+  "duration_excluded": true,
+  "oversampling": false,
+  "diffusion_seconds": 8.49658689997159,
+  "official_commit": "internal-tabddpm-v1.0"
+}
